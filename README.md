@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile_circle.png" width="150" />
+  <img src="profile_circle_2.png" width="150" />
 </p>
 
 <h1 align="center">Jegan Baskar</h1>
