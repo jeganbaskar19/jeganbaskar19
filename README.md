@@ -6,13 +6,13 @@
 <h3 align="center">Associate Full Stack Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ruby+on+Rails+%7C+Python+%7C+JavaScript;Full+Stack+Developer+%7C+Backend-Focused;Building+reliable%2C+production-grade+software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ruby+on+Rails+%7C+Python+%7C+JavaScript;Full+Stack+Developer+%7C+Backend-Focused;Building+reliable%2C+production-grade+software;deBUGging+is+90%25+of+the+job%2C+I%27m+cool+with+that" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://jeganbaskar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/jeganbaskar19"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:jeganbaskar19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://jeganbaskar.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/jeganbaskar19" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:jeganbaskar19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -120,9 +120,9 @@ Full-featured task management system with complete CRUD functionality — REST A
 ### 📫 Contact
 
 <p align="center">
-  <a href="https://jeganbaskar.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://github.com/jeganbaskar19"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="mailto:jeganbaskar19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://jeganbaskar.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://github.com/jeganbaskar19" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:jeganbaskar19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 <p align="center"><sub>📍 Coimbatore, Tamil Nadu, India · 📞 7845009566</sub></p>
