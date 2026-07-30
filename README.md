@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="profile_circle.png" width="150" />
+</p>
+
 <h1 align="center">Jegan Baskar</h1>
 <h3 align="center">Associate Full Stack Developer</h3>
 
@@ -100,7 +104,7 @@ Full-featured task management system with complete CRUD functionality — REST A
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jeganbaskar19&show_icons=true&theme=tokyonight&hide_border=true" alt="Jegan's GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=jeganbaskar19&show_icons=true&theme=tokyonight&hide_border=true" alt="Jegan's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -108,7 +112,7 @@ Full-featured task management system with complete CRUD functionality — REST A
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeganbaskar19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=jeganbaskar19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
