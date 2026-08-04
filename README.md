@@ -120,7 +120,7 @@ Full-featured task management system with complete CRUD functionality — REST A
 ### 📫 Contact
 
 <p align="center">
-  <a href="https://jeganbaskar.netlify.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://jeganbaskar.in" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://github.com/jeganbaskar19" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:jeganbaskar19@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
