@@ -104,7 +104,7 @@ Full-featured task management system with complete CRUD functionality — REST A
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended-frontend-rosy.vercel.app/api?username=jeganbaskar19&show_icons=true&theme=tokyonight&hide_border=true" alt="Jegan's GitHub Stats" />
+  <img src="profile/stats.svg" alt="Jegan's GitHub Stats" />
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@ Full-featured task management system with complete CRUD functionality — REST A
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended-frontend-rosy.vercel.app/api/top-langs/?username=jeganbaskar19&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 ---
