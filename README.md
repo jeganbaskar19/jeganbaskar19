@@ -108,7 +108,7 @@ Full-featured task management system with complete CRUD functionality — REST A
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jeganbaskar19&theme=tokyonight&hide_border=true" alt="Jegan's GitHub Streak" />
+  <img src="profile/streak.svg" alt="Jegan's GitHub Streak" />
 </p>
 
 <p align="center">

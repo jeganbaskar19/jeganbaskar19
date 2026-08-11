@@ -15,16 +15,23 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Fetch Latest Stats SVGs
+      - name: Fetch Latest Stats & Languages SVGs
         run: |
           mkdir -p profile
           curl -s "https://github-stats-extended.vercel.app/api?username=jeganbaskar19&show_icons=true&theme=tokyonight&hide_border=true" -o profile/stats.svg
           curl -s "https://github-stats-extended.vercel.app/api/top-langs/?username=jeganbaskar19&layout=compact&theme=tokyonight&hide_border=true" -o profile/top-langs.svg
 
+      - name: Generate Streak Stats Card
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=jeganbaskar19&theme=tokyonight&hide_border=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and Push Updated SVGs
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add profile/stats.svg profile/top-langs.svg
+          git add profile/*.svg
           git commit -m "chore: auto-update profile stats SVGs [skip ci]" || echo "No changes to commit"
           git push
