@@ -125,4 +125,4 @@ Full-featured task management system with complete CRUD functionality — REST A
   <a href="mailto:hello@jeganbaskar.in" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center"><sub> Coimbatore, Tamil Nadu, India · 📞 7845009566</sub></p>
+<p align="center"><sub> 📍 Coimbatore, Tamil Nadu, India · 📞 7845009566</sub></p>
