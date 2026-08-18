@@ -60,9 +60,9 @@ Associate Full Stack Developer with hands-on professional experience in Ruby on 
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </p>
 
-**Languages:** Java, JavaScript, Python, Ruby on Rails, HTML5, CSS3, SQL, MongoDB
+**Languages:** Java, JavaScript, Python, Ruby on Rails, HTML5, CSS3, SQL 
 **Frameworks & Libraries:** Spring Boot, React.js, Ruby on Rails
-**Databases:** MySQL, Relational Database Design, Query Optimization
+**Databases:** MySQL, Relational Database Design, Query Optimization , MongoDB
 **Tools:** Git, GitHub, Postman, REST API Testing, VS Code
 **Concepts:** OOP, RESTful API Design, MVC Architecture, SDLC, Agile/Scrum, Debugging, Web Development
 
